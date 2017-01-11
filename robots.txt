@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /2015/
+Disallow: /cgi-bin/
+Disallow: /webapp/
+Disallow: /app/
+Disallow: /default/
+ 
+User-agent: Googlebot-Image
+Disallow: / 
